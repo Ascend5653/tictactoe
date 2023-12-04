@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# tictactoe
+>>>>>>> 0109fa2f48c900109f2cd2af1992b2e3bf8e7593
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
